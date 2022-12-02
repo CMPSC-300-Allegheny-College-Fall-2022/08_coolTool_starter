@@ -1,6 +1,6 @@
 # Bioinformatics
 
-# (CMPSC 300) Activity 08:: Cool Tool
+# (CMPSC 300) Activity 10 :: Cool Tool
 
 
 ## Dates
